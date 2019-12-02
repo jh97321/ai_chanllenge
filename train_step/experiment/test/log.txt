@@ -1,0 +1,6 @@
+[INFO] Epoch: 2	Learning rate: 2.00e-04
+[INFO] Epoch: 2	Learning rate: 2.00e-04
+[INFO] Epoch: 2	Learning rate: 2.00e-04
+[INFO] [2/80]	94/94	[CrossEntropy: 8.7198][Triplet: 2.1296][Total: 10.8493]
+
+[INFO] Test:
